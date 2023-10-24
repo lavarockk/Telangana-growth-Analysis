@@ -2,6 +2,7 @@
 Insights to Telangana government
 
 Presentation link: https://www.linkedin.com/posts/v-s-santhi-anantha-71634a27a_codebasicsresumeprojectchallenge-opendatatelangana-activity-7114147509588893696-7iUQ?utm_source=share&utm_medium=member_desktop
+
 Hello everyone,
 I am excited to participate in codebasics Resume Challenge 7, which is to analyze growth and present insights to the Telangana government. Telangana government open sourced all the data and is accessible at Open Data Telangana. I would like to thank code basics team and the Telangana government for making this possible.
  
@@ -24,7 +25,8 @@ Analyze the given data and provide insights to the Telangana government in the f
 5. Hyderabad, Rangareddy, Medchal_Malkajgiri, Sangareddy districts are top districts in transportation, stamp revenue and investments. 
  
 -Live Dashboard link: https://lnkd.in/epmNPNVB
--LinkedIn:  https://lnkd.in/eBz39gcV
+
+-LinkedIn:  https://www.linkedin.com/in/v-s-santhi-anantha-71634a27a/
  
 I would like to thank from Telangana Government:
 1. Kalvakuntla Taraka Rama Rao / KTR Minister for IT
