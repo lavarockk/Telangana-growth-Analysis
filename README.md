@@ -1,5 +1,5 @@
 # Telangana-growth-Analysis
-Insights to Telangana government
+Present insights to Telangana government
 
 Presentation link: https://www.linkedin.com/posts/v-s-santhi-anantha-71634a27a_codebasicsresumeprojectchallenge-opendatatelangana-activity-7114147509588893696-7iUQ?utm_source=share&utm_medium=member_desktop
 
