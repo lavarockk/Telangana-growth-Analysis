@@ -4,7 +4,7 @@ Present insights to Telangana government
 Presentation link: https://www.linkedin.com/posts/v-s-santhi-anantha-71634a27a_codebasicsresumeprojectchallenge-opendatatelangana-activity-7114147509588893696-7iUQ?utm_source=share&utm_medium=member_desktop
 
 Hello everyone,
-I am excited to participate in codebasics Resume Challenge 7, which is to analyze growth and present insights to the Telangana government. Telangana government open sourced all the data and is accessible at Open Data Telangana. I would like to thank code basics team and the Telangana government for making this possible.
+I participated in codebasics Resume Challenge 7, which is to analyze growth and present insights to the Telangana government. Telangana government open sourced all the data and is accessible at Open Data Telangana. I would like to thank code basics team and the Telangana government for making this possible.
  
 **Objective:**
 Analyze the given data and provide insights to the Telangana government in the following departments.
@@ -28,23 +28,4 @@ Analyze the given data and provide insights to the Telangana government in the f
 
 -LinkedIn:  https://www.linkedin.com/in/v-s-santhi-anantha-71634a27a/
  
-I would like to thank from Telangana Government:
-1. Kalvakuntla Taraka Rama Rao / KTR Minister for IT
-Industries and Municipal Administration:
-https://lnkd.in/eJwiM8Eq
-2. Jayesh Ranjan Secretary, Information Technology (IT)
-Government of Telangana
-https://lnkd.in/eyD3S_iP
-3. Dileep Konatham
-Director at Government of Telangana
-https://lnkd.in/ebqEJUjb
-4. Venu Panjarla
-Open Data Telangana
-https://lnkd.in/e6mzMfqy
- 
-From Codebasics Team
-1. Dhaval Patel
-Founder Codebasics
-https://lnkd.in/euiakiTz
-2. Hemanand Vadivel
-Co-Founder, Codebasics
+
