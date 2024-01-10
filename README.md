@@ -26,6 +26,5 @@ Analyze the given data and provide insights to the Telangana government in the f
  
 -Live Dashboard link: https://lnkd.in/epmNPNVB
 
--LinkedIn:  https://www.linkedin.com/in/v-s-santhi-anantha-71634a27a/
- 
+-LinkedIn: https://www.linkedin.com/in/venkata-siva-santhi-anantha-71634a27a/
 
